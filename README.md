@@ -61,4 +61,4 @@
 ![Screenshot 2024-07-01 200503](https://github.com/Simran059/CODTECH-Task2/assets/98331698/31ae066c-71b8-4614-97a4-a7b646082e57)
 ![Screenshot 2024-07-01 200550](https://github.com/Simran059/CODTECH-Task2/assets/98331698/ee71e94c-4a67-4694-906d-ce4ede591724)
 ![Screenshot 2024-07-01 200615](https://github.com/Simran059/CODTECH-Task2/assets/98331698/c6eff305-e9e7-4c8b-9b95-70078c882efe)
-![Screenshot 2024-07-01 200623](https://github.com/Simran059/CODTECH-Task2/assets/98331698/cd823b23-935e-4848-bbc9-ae7778bcb98b)
+
