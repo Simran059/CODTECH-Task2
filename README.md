@@ -8,7 +8,6 @@
 
 **Duration :** 5th June, 2024 - 5th July, 2024
 
-**Mentor :**
 
 **OVERVIEW OF THE PROJECT**
 
